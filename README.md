@@ -12,6 +12,10 @@ The goals and objectives of the inventory management system are as follows:
 4. To allow the admin to update products to the inventory.
 
 TECHNOLOGY-->>
+
 Front End -> HTML, JavaScript, Bootstrap.
+
 Backend -> PHP
+
 Database--> MySql
+
